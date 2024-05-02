@@ -2,5 +2,6 @@
 
 <h2>컴파일러 이론 </h2>
 <h3>어휘 분석기</h3>
-[**1 : 어휘분석기가 하는 일**](https://velog.io/@su9king/LexicalAnalyzer1/)<br></br>
-- [2 : 토큰화 작업의 핵심 개념](https://velog.io/@su9king/LexcialAnalyzer2)
+[1 : 어휘분석기가 하는 일](https://velog.io/@su9king/LexicalAnalyzer1/) <br></br>
+[2 : 토큰화 작업의 핵심 개념](https://velog.io/@su9king/LexcialAnalyzer2) <br></br>
+[3 : 원시 프로그램의 인식 과정] (https://velog.io/@su9king/LexcialAnalyzer3)
